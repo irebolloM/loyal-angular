@@ -1,4 +1,5 @@
 # loyal-angular
 curso angular loyal
-Repositorio
-##clase
+
+# clase1
+## cambio creamos rama dev
